@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883493509933",
+    "project_id": "arsitekbro-57199",
+    "storage_bucket": "arsitekbro-57199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883493509933:android:571ef526b30e51db1791a4",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-cy8p46MwuJcWQUyDvyGy9EFQL0q_BDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
